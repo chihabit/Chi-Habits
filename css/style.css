@@ -87,7 +87,7 @@ blockquote {
 /* Tablet portrait */
 @media (max-width: 767px) {
   #content_columns {
-    padding: 20px;
+    padding: 5px;
     padding-top: 0;
   }
 
