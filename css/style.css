@@ -84,6 +84,15 @@ blockquote {
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.25);
 }
 
+/* Paypal Donate button */
+.navbar .nav > li > form > input[type="image"] {
+  padding: 8px 10px 9px 10px;
+}
+
+.navbar .nav > li > form {
+  margin: 0px;
+}
+
 /* Video links */
 
 .video {
